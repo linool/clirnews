@@ -1,6 +1,6 @@
 ## Code Repository for Thesis `Fairness-Aware Multilingual Information Retrieval`
 
-This repository contains the code for my master thesis. It includes a conda environment file (`environment.yml`), this README file, and three folders: `indexers`, `experiments`, and `demo`.
+This repository contains the code for my master thesis at the University of Stavanger in June 2024. It includes a conda environment file (`environment.yml`), this README file, and three folders: `indexers`, `experiments`, and `demo`.
 
 ## Repository Structure
 
